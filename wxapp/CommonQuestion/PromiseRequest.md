@@ -17,6 +17,6 @@ sleep(time) {
 ```
 在接口响应完成后先调用等待方法，比如等待100毫秒，例
 ```javascript
-	await XXXX.sleep(100)
+await XXXX.sleep(100)
 ```
 注：XXXX表示为你封装页面抛出的方法，需在调用界面先引入定义

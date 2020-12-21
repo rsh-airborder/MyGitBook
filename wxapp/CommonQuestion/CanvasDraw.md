@@ -85,7 +85,7 @@ wxss部分
 #### 下载到手机
 页面制作下载按钮，点击下载
 
-###### 下载方法
+##### 下载方法
 ```javascript
 // 保存图片
 downloadPic(){
@@ -129,10 +129,11 @@ downloadPic(){
 }
 ```
 
-###### 自定义相册授权弹窗
+##### 自定义相册授权弹窗
 
 wxml文件
 ```html
+{% raw %}
 <block wx:if="{{ showAuth }}">
     <view class="join-box">
         <view class="join-content-box">
@@ -145,6 +146,7 @@ wxml文件
         </view>
     </view>
 </block>
+{% endraw %}
 ```
 注：弹窗背景遮罩自行制作
 

@@ -2,7 +2,7 @@
 
 背景：ios从iphone X开始进入全面屏时代，底栏出现了代替home键的横条，横条所在区域被称之为安全区域，这里指的全面屏适配就是适配安全区域，防止误触。
 
-### 第一种：使用wx.getSystemInfo()
+#### 第一种：使用wx.getSystemInfo()
 在app.js中使用
 ```javascript
 onLaunch: function (res) {
@@ -27,7 +27,7 @@ onLaunch: function (res) {
     })
 }
 ```
-### 第二种：使用css
+#### 第二种：使用css
 [微信小程序官方](https://developers.weixin.qq.com/miniprogram/dev/framework/audits/accessibility.html#5.%20iPhone%20X%20%E5%85%BC%E5%AE%B9)的兼容提案
 ```css
 padding-bottom: constant(safe-area-inset-bottom);
