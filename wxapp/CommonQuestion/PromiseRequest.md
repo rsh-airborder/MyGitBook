@@ -1,3 +1,11 @@
+<!--
+ * @Author: kendrick任
+ * @Date: 2020-12-18 09:59:15
+ * @LastEditTime: 2020-12-21 15:01:18
+ * @Description: 版本申明
+ * @FilePath: \gitbook\wxapp\CommonQuestion\PromiseRequest.md
+ * @
+-->
 # setData({})遇到Promise 请求
 
 如果接口封装了```Promise```请求，那么在页面中使用经常会遇到一个问题，在页面重新渲染时需要先重置数据，再接口调用，将返回值赋值，但小程序提示无法判定你设置的数据，其实是由于小程序的```setData({})```方法导致的，小程序因为其性能原因，可能会因为你重置数据和接口赋值都操作了同一个数据，它无法判定应该如何设置该数据而导致报错。

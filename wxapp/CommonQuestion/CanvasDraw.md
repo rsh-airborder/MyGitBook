@@ -1,3 +1,11 @@
+<!--
+ * @Author: kendrick任
+ * @Date: 2020-12-18 11:27:29
+ * @LastEditTime: 2020-12-21 15:01:07
+ * @Description: 版本申明
+ * @FilePath: \gitbook\wxapp\CommonQuestion\CanvasDraw.md
+ * @
+-->
 # canvas绘制
 
 常见场景：新建内容  > 后端生成动态小程序码 > 前端显示 > 下载到手机

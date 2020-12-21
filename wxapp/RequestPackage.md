@@ -1,3 +1,11 @@
+<!--
+ * @Author: kendrick任
+ * @Date: 2020-12-17 11:06:32
+ * @LastEditTime: 2020-12-21 15:00:43
+ * @Description: 版本申明
+ * @FilePath: \gitbook\wxapp\RequestPackage.md
+ * @
+-->
 # 请求封装
 
 ### 在utils文件夹下建立base.js文件

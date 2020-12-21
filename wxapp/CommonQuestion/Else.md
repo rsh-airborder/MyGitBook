@@ -1,3 +1,11 @@
+<!--
+ * @Author: kendrick任
+ * @Date: 2020-12-18 11:29:19
+ * @LastEditTime: 2020-12-21 15:01:11
+ * @Description: 版本申明
+ * @FilePath: \gitbook\wxapp\CommonQuestion\Else.md
+ * @
+-->
 # 其他注意事项
 
 #### 1.伪类及选择器

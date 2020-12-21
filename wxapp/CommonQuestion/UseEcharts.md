@@ -1,3 +1,11 @@
+<!--
+ * @Author: kendrick任
+ * @Date: 2020-12-17 11:06:32
+ * @LastEditTime: 2020-12-21 15:01:34
+ * @Description: 版本申明
+ * @FilePath: \gitbook\wxapp\CommonQuestion\UseEcharts.md
+ * @
+-->
 # 微信小程序中Echarts的使用
 
 #### 使用

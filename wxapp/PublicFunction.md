@@ -1,8 +1,16 @@
+<!--
+ * @Author: kendrick任
+ * @Date: 2020-12-17 11:06:32
+ * @LastEditTime: 2020-12-21 16:24:19
+ * @Description: 版本申明
+ * @FilePath: \gitbook\wxapp\PublicFunction.md
+ * @
+-->
 # 公共方法封装
 
 ### 在utils文件夹下的util.js文件存放方法
 
-##### 输入框控制时间执行
+##### 防抖
 ```javascript
 function debounce(fn, wait) {
 	let timer = null
@@ -14,15 +22,21 @@ function debounce(fn, wait) {
 	}
 }
 ```
-##### 输入框控制时间执行
+##### 节流
 ```javascript
-function debounce(fn, wait) {
-	let timer = null
+function throttle(fn, delay){
+	let valid = true
 	return () => {
-		if (timer) {
-			clearTimeout(timer)
+		if(!valid){
+			//休息时间 暂不接客
+			return false 
 		}
-		timer = setTimeout(fn, wait)
+		// 工作时间，执行函数并且在间隔期内把状态位设为无效
+		valid = false
+		setTimeout(() => {
+			fn()
+			valid = true
+		}, delay)
 	}
 }
 ```
@@ -135,6 +149,7 @@ function utf8_decode (utftext) {
 ```
 module.exports = {
 	debounce: debounce,
+	throttle: throttle,
 	timeToString: timeToString,
 	base64_encode: base64_encode,
 	base64_decode: base64_decode,

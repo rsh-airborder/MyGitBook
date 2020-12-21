@@ -1,3 +1,11 @@
+<!--
+ * @Author: kendrick任
+ * @Date: 2020-12-18 13:03:08
+ * @LastEditTime: 2020-12-21 15:01:25
+ * @Description: 版本申明
+ * @FilePath: \gitbook\wxapp\CommonQuestion\Scan.md
+ * @
+-->
 # 扫码
 
 #### 小程序内部扫码

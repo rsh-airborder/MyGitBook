@@ -1,3 +1,11 @@
+<!--
+ * @Author: kendrick任
+ * @Date: 2020-12-17 11:06:32
+ * @LastEditTime: 2020-12-21 15:00:49
+ * @Description: 版本申明
+ * @FilePath: \gitbook\wxapp\README.md
+ * @
+-->
 # 小程序
 小程序是一种新的开放能力，开发者可以快速地开发一个小程序。小程序可以在微信内被便捷地获取和传播，同时具有出色的使用体验。
 

@@ -1,3 +1,11 @@
+<!--
+ * @Author: kendrick任
+ * @Date: 2020-12-17 11:07:59
+ * @LastEditTime: 2020-12-21 15:01:46
+ * @Description: 版本申明
+ * @FilePath: \gitbook\vue\vue3\README.md
+ * @
+-->
 # vue3
 Vue的next版本，现已公测，大航海时代的one piece。
 

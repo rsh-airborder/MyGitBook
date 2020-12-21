@@ -1,3 +1,11 @@
+<!--
+ * @Author: kendrick任
+ * @Date: 2020-12-18 13:54:49
+ * @LastEditTime: 2020-12-21 15:01:02
+ * @Description: 版本申明
+ * @FilePath: \gitbook\wxapp\AddressBook.md
+ * @
+-->
 # 通讯录制作
 
 可使用```vant```的```IndexBar```组件，[官方文档](https://vant-contrib.gitee.io/vant-weapp/#/index-bar)，但因为这个组件外部不可在套用块（会导致右侧索引失效）以及全屏仅有此组件时才能完美触发所有方法导致业务操作困难，故自定义一通讯录。

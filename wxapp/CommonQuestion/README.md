@@ -1,3 +1,11 @@
+<!--
+ * @Author: kendrick任
+ * @Date: 2020-12-18 09:55:07
+ * @LastEditTime: 2020-12-21 15:01:21
+ * @Description: 版本申明
+ * @FilePath: \gitbook\wxapp\CommonQuestion\README.md
+ * @
+-->
 # 以下章节汇总了我在微信小程序开发中遇到的问题
 
 - [Echarts的使用](UseEcharts.md)

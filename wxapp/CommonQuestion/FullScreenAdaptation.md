@@ -1,3 +1,11 @@
+<!--
+ * @Author: kendrick任
+ * @Date: 2020-12-17 11:06:32
+ * @LastEditTime: 2020-12-21 15:01:14
+ * @Description: 版本申明
+ * @FilePath: \gitbook\wxapp\CommonQuestion\FullScreenAdaptation.md
+ * @
+-->
 # IOS全面屏的底栏适配
 
 背景：ios从iphone X开始进入全面屏时代，底栏出现了代替home键的横条，横条所在区域被称之为安全区域，这里指的全面屏适配就是适配安全区域，防止误触。

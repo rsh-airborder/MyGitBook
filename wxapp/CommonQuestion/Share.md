@@ -1,3 +1,11 @@
+<!--
+ * @Author: kendrick任
+ * @Date: 2020-12-18 13:02:50
+ * @LastEditTime: 2020-12-21 15:01:30
+ * @Description: 版本申明
+ * @FilePath: \gitbook\wxapp\CommonQuestion\Share.md
+ * @
+-->
 # 分享
 
 这里仅叙述分享给微信好友和微信群
