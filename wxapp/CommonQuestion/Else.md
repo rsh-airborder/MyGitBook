@@ -1,14 +1,14 @@
 <!--
  * @Author: kendrick任
  * @Date: 2020-12-18 11:29:19
- * @LastEditTime: 2020-12-21 15:01:11
+ * @LastEditTime: 2020-12-23 10:19:32
  * @Description: 版本申明
  * @FilePath: \gitbook\wxapp\CommonQuestion\Else.md
  * @
 -->
 # 其他注意事项
 
-#### 1.伪类及选择器
+#### 1.选择器支持
 小程序仅支持的伪类仅有```before```和```after```两种，选择器也仅支持类选择器，id选择器，标签选择器，兄弟选择器，详情请看[官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/view/wxss.html)。
 
 #### 2.图片预览触发onShow事件

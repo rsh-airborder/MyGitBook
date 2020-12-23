@@ -1,13 +1,15 @@
 <!--
  * @Author: kendrick任
  * @Date: 2020-12-21 15:27:26
- * @LastEditTime: 2020-12-21 16:05:26
+ * @LastEditTime: 2020-12-21 16:45:42
  * @Description: 版本申明
  * @FilePath: \gitbook\else\UnicodeEmoji.md
  * @
 -->
 # Unicode Emoji
 来源：[v12.1emoji列表](https://www.unicode.org/emoji/charts-12.1/emoji-list.html)
+
+win10快捷键```win + .```
 
 #### <font color="red">Smileys & Emotion</font>
 ##### face-smiling

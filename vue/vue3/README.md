@@ -1,7 +1,7 @@
 <!--
  * @Author: kendrick任
  * @Date: 2020-12-17 11:07:59
- * @LastEditTime: 2020-12-21 15:01:46
+ * @LastEditTime: 2020-12-23 16:22:59
  * @Description: 版本申明
  * @FilePath: \gitbook\vue\vue3\README.md
  * @
@@ -9,6 +9,10 @@
 # vue3
 Vue的next版本，现已公测，大航海时代的one piece。
 
+<!-- #### 章节目录
+- [vue3.0 + vite 学习](vue3.0+vite.md) -->
+
+#### 文档
 - [官方文档](https://v3.cn.vuejs.org/)
 - [vuex next](https://next.vuex.vuejs.org/)
 - [vue router next](https://next.router.vuejs.org/)
