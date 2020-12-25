@@ -1,7 +1,7 @@
 <!--
  * @Author: kendrick任
  * @Date: 2020-12-24 16:42:42
- * @LastEditTime: 2020-12-25 09:00:31
+ * @LastEditTime: 2020-12-25 13:11:16
  * @Description: 版本申明
  * @FilePath: \gitbook\else\YiyunShare.md
  * @
@@ -10,12 +10,14 @@
 
 目标：获取手机号及填写表单信息回传
 
-以下几种分享以成功分享到该场景叙述
-
-#### 文档
+#### 微信开放平台官方文档
 
 - [IOS](https://developers.weixin.qq.com/doc/oplatform/Mobile_App/Share_and_Favorites/iOS.html)
 - [Android](https://developers.weixin.qq.com/doc/oplatform/Mobile_App/Share_and_Favorites/Android.html)
+
+#### 平台使用的第三方sdk
+
+- [网站](https://www.mob.com/mobService/sharesdk)
 
 #### 微信小程序
 
@@ -29,8 +31,8 @@
 ##### 优劣势
 
 ###### 优势
-1. 可<font color="red">直接获取手机号</font>
-2. 项目独立可提高维护性
+1. <font color="red">直接获取手机号</font>
+2. 代码更独立
 
 ###### 劣势
 1. 开发周期会更久

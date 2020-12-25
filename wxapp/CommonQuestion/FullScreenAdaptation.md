@@ -1,7 +1,7 @@
 <!--
  * @Author: kendrick任
  * @Date: 2020-12-17 11:06:32
- * @LastEditTime: 2020-12-21 15:01:14
+ * @LastEditTime: 2020-12-25 13:13:14
  * @Description: 版本申明
  * @FilePath: \gitbook\wxapp\CommonQuestion\FullScreenAdaptation.md
  * @
